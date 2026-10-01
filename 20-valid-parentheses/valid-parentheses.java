@@ -23,6 +23,6 @@ class Solution {
             }
         }
 
-        return top == -1; // stack should be empty
+        return top == -1; 
     }
 }
